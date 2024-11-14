@@ -7,7 +7,14 @@ This study introduces DynaHull, a novel technique designed to enhance indoor map
 ![Estimating convex hull volume between stationary and dynamic points](img/fdsc.png)
 *Estimating convex hull volume between stationary and dynamic points: The left figure represents the stationary area (wall), while the picture on the right illustrates the dynamic area (human)*
 
+## Rosbag Data
+
+For testing and demonstration purposes, you can download the rosbag data from the link below:
+
+[Download Rosbag Data](https://drive.google.com/file/d/1Yw0g3Oe0TMJT8lsUIWGawGRsdBJwjgfP/view?usp=drive_link)
+
 ## Required Libraries
+
 - numpy
 - scikit-learn
 - open3d
